@@ -7,13 +7,12 @@
 - Database: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - Cloud: ![Naver Cloud Platform](https://img.shields.io/badge/Naver%20Cloud%20Platform-%2300C63E.svg?style=for-the-badge&logo=naver&logoColor=white)
 ## 🛠️ 도구
-- Gradle
-- Jenkins
-- Docker
-- EclipseIDE
-- IntelliJIDEA
-- VScode
-
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![EclipseIDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+- ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## 📚 학력
 - 백석대학교 회계학 전공
 
