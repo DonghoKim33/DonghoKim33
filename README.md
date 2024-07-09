@@ -10,6 +10,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![MyBatis](https://img.shields.io/badge/MyBatis-%231572B6.svg?style=for-the-badge&logo=mybatis&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
