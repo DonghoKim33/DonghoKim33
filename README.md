@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 사용하는 프레임워크 및 라이브러리
+### 주로 사용하는 프레임워크 및 라이브러리
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![MyBatis](https://img.shields.io/badge/MyBatis-%231572B6.svg?style=for-the-badge&logo=mybatis&logoColor=white)
@@ -32,7 +32,9 @@
 
 ## 📚 학력 및 자격증
 백석대학교 회계학 전공  
-![NCE](https://img.shields.io/badge/Naver_Cloud_Expert-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![NCE](https://img.shields.io/badge/Naver_Cloud_Expert-03C75A?style=for-the-badge&logo=naver&logoColor=white)  
+![정보처리기사](https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiPjxwYXRoIGQ9Ik0xMCAwYzUuNTIyIDAgMTAgNC40OCAxMCAxMFMxNS41MjIgMjAgMTAgMjAgMCAxNS41MjIgMCAxMFM0LjQ4IDAgMTAgMHptMCAxOEM0LjQ4IDE4IDIgMTUuNTIyIDIgMTBTNC40OCAyIDEwIDJzOCAyLjQ4IDggOC02LjQ4IDgtOCA4em0wLTguNWMtMS4zMDUgMC0yLjUgMS4xOTUtMi41IDIuNVM4LjY5NSAxMy41IDEwIDEzLjVzMi41LTEuMTk1IDIuNS0yLjUtMS4xOTUtMi41LTIuNS0yLjV6bS00LjUgMnYxSDR2LTRoMnYxYy41NzQtLjcxNCAxLjI4Ni0xLjMxIDIuLTEuNjdWNy41SDR2LTJoM3YxYy0uNTc0LjcxNC0xLjI4NiAxLjMxLTIgMS42N1YxMnoiLz48L3N2Zz4=)
+![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## 📫 연락처
 이메일: kdh96331@naver.com
